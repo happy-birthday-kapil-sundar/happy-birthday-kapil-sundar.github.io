@@ -1,0 +1,35 @@
+.l1 {
+  margin-top: 5%;
+  height: 100%;
+  width: 100%;
+  background: white;
+}
+
+.l2 {
+  margin: 25% 0 25% 0;
+  height: 30vh;
+  background: white;
+  opacity: 0.75;
+}
+
+.l12 {
+  margin: 25% 0 25% 0;
+  height: 80vh;
+  background: white;
+  opacity: 0.75;
+}
+
+.form-group {
+    margin: 0;
+    text-align: center;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
